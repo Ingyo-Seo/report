@@ -1,5 +1,6 @@
 # ml5.js 딥러닝 라이브러리를 이용해<br>손의 움직임으로 게임을 조작하는것에 대한 연구
 <br>
+<h1>보고서</h1>
 <table>
   <h2>5팀</h2>
   <tr>
@@ -65,21 +66,21 @@
 </table>
 <hr>
 <br>
-<h2>과제 요약</h2> 
+<h2>요약</h2> 
 <h3>ml5.js를 이용해 사용자의 손을 인식하고, 인식한 손을 토대로 게임을 조작하는 것을 
   구현하여<br>실제 게임과 인공지능을 엮는 방법에 대해서 연구하도록 함.</h3>
 <hr>
 <br>
-<h2>과제 구현</h2>
+<h2>구현</h2>
 <div>
-  <h3>과제 링크</h3>
+  <h3>링크</h3>
   <h4>
     https://editor.p5js.org/Ingyo-Seo/sketches/_DZ9T2eC_<br>
     https://editor.p5js.org/Ingyo-Seo/full/_DZ9T2eC_
   </h4>
 </div>
 <div>
-  <h3>과제 내용</h3>
+  <h3>내용</h3>
   <h4>
     (1) 프로그램이 시작되면 화면 상단에서 하단으로 장애물이 떨어지기 시작한다.<br>
     (2) 화면 오른쪽에 카메라가 표시되면서 사용자가 손가락으로 방향을 지시하여 이동을 할 수 있다.<br>
@@ -89,7 +90,7 @@
   </h4>
 </div>
 <div>
-  <h3>과제 실행</h3>
+  <h3>실행</h3>
   <h4>
     <img src="Start.PNG">
     <img src="Control 0.PNG">
@@ -99,7 +100,7 @@
   </h4>
 </div>
 <div>
-  <h3>과제 동영상 링크</h3>
+  <h3>동영상 링크</h3>
   <h4>
     https://youtu.be/BscnrKMb7zg
   </h4>
