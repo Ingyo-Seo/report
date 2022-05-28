@@ -97,6 +97,12 @@
     <img src="Restart.PNG">
   </h4>
 </div>
+<div>
+  <h3>과제 동영상 링크</h3>
+  <h4>
+    https://youtu.be/BscnrKMb7zg
+  </h4>
+</div>
   <h3>
     기대효과 및 활용방안
   </h3>
