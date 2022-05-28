@@ -114,6 +114,10 @@
 </div>
 <h2>참고 문헌</h2>
 https://wikidocs.net/103185 - ml5.js 사용법<br>
-https://codepen.io/fleemaja/pen/jOPmXyZ Kayak Game - open source<br>
-http://news.bizwatch.co.kr/article/industry/2022/04/22/0033 Hand Tracking - News<br>
-https://www.koreascience.or.kr/article/JAKO201919866854640.pdf Real-Time Hand Gesture Recognition Based on Deep Learnin - Paper<
+https://ko.wikipedia.org/wiki/%EB%94%A5_%EB%9F%AC%EB%8B%9D Wikipedia, Deep Learning<br>
+https://kr.mathworks.com/discovery/deep-learning.html Mathwork, Deep Learning<br>
+https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=KOSEN000000000000293 T. Jung, Understanding Machine Learning<br>
+https://www.fnnews.com/news/202108081831483714 J. Choi, Air Touch<br>
+http://news.bizwatch.co.kr/article/industry/2022/04/22/0033 D. Ju, Metaverse Hand Tracking<br>
+https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO201809355933868&oCn=JAKO201809355933868&dbt=JAKO&journal=NJOU00303049 B. Lee, D. Oh, T. Kim, 3D Virtual Reality Game with Depp Learning-based Hand Gesture Recognition<br>
+
