@@ -74,7 +74,8 @@
 <div>
   <h3>과제 링크</h3>
   <h4>
-    https://editor.p5js.org/deps62/sketches/4JgGkFgqS](https://editor.p5js.org/Ingyo-Seo/sketches/_DZ9T2eC
+    [https://editor.p5js.org/deps62/sketches/4JgGkFgqS](https://editor.p5js.org/Ingyo-Seo/sketches/_DZ9T2eC](https://editor.p5js.org/Ingyo-Seo/sketches/_DZ9T2eC_)
+    https://editor.p5js.org/Ingyo-Seo/full/_DZ9T2eC_
   </h4>
 </div>
 <div>
