@@ -90,10 +90,7 @@
 <div>
   <h3>과제 실행</h3>
   <h4>
-    ![image](https://user-images.githubusercontent.com/64400731/170809554-f8443888-6f05-4ee5-92e7-b04c527a25d7.png)
-    ![image](https://user-images.githubusercontent.com/64400731/170809576-69de21f9-7ae0-496b-90b6-d8c23de91228.png)
-    ![image](https://user-images.githubusercontent.com/64400731/170809588-f851bcf6-d323-4cce-8355-66774e2286d2.png)
-    ![image](https://user-images.githubusercontent.com/64400731/170809600-a622e4a7-a3ad-4599-9f45-8c1a41a24a0d.png)
+    ![ex_screenshot](./img/screenshot.png)
   </h4>
 </div>
   <h3>
