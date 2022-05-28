@@ -90,7 +90,11 @@
 <div>
   <h3>과제 실행</h3>
   <h4>
-    ![ex_screenshot](./img/screenshot.png)
+    <img src="Start.PNG">
+    <img src="Control 0.PNG">
+    <img src="Control 1.PNG">
+    <img src="GameOver.PNG">
+    <img src="Restart.PNG">
   </h4>
 </div>
   <h3>
